@@ -22,7 +22,7 @@
 ---
 
 ### 🌱 Fun Bit  
-When I’m not coding, I’m usually reading a paper or scribbling down ideas for my next bot.  
+When I’m not coding, I’m usually reading a paper or scribbling down ideas for my next bot.   
 
 ---
 
