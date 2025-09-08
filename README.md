@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Yeab  
 
 🎓 Student @ **Beijing Institute of Technology**  
-🐍 Pythonist & bot builder  
+🐍 Pythonist & works in automation
 🤖 Big fan of **Agentic AI**  
 
 ---
@@ -22,7 +22,7 @@
 ---
 
 ### 🌱 Fun Bit  
-When I’m not coding, I’m usually reading a paper or scribbling down ideas for my next bot.   
+I love scraping morethan using public api :) 
 
 ---
 
