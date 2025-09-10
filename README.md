@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Yeab  
 
 🎓 Student @ **Beijing Institute of Technology**  
-🐍 Pythonist & works in automation
+🐍 Pythonist & works in automation 
 🤖 Big fan of **Agentic AI**  
 
 ---
