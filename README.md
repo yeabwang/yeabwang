@@ -40,8 +40,6 @@ I prefer **scraping** over using public APIs. 😉
 
 ### 🧩 Contributions & Activity
 ![Yeab's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yeabwang&theme=radical)  
-![Yeab's PRs](https://img.shields.io/github/issues-pr/yeabwang?style=for-the-badge)  
-![Yeab's PRs Merged](https://img.shields.io/github/issues-pr-closed/yeabwang?style=for-the-badge)
 
 ---
 
