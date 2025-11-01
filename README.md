@@ -14,9 +14,9 @@
 ---
 
 ### ⚡ Current Focus
-- **Agentic AI** & Autonomous Agents
-- **Machine Learning** & Deep Learning
-- **Reinforcement Learning** (PPO, DRL)
+- Reinforcement Learning (DRL, Alignment tasks)
+- Agentic AI & Autonomous Systems
+- Deep Learning & Machine Learning
 
 ---
 
