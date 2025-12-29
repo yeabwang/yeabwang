@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Yeab
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeabwang&label=profile%20views&color=ce9927&style=flat" alt="yeabwang profile views" />
+</p>
+
 🎓 Student @ **Beijing Institute of Technology**  
 🐍 Mostly works on Python & Automation  
 🤖 Agentic AI Enthusiast
@@ -33,10 +37,6 @@ I prefer **scraping** over using public APIs. 😉
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-4B0082?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeabwang&label=profile%20views&color=ce9927&style=flat" alt="yeabwang profile views" />
-</p>
 
 
 ### 🧩 Contributions & Activity
