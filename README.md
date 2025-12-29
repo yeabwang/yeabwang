@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yeab
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=yeabwang&label=profile%20views&color=ce9927&style=flat" alt="yeabwang profile views" />
 </p>
 
