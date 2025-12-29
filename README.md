@@ -35,11 +35,7 @@ I prefer **scraping** over using public APIs. 😉
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Yeab's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeabwang&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabwang&layout=compact&theme=radical&hide=html,css)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="yeabwang" /> </p>
 ---
 
 ### 🧩 Contributions & Activity
