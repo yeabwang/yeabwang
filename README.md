@@ -34,9 +34,10 @@ I prefer **scraping** over using public APIs. 😉
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="yeabwang" /> </p>
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeabwang&label=profile%20views&color=ce9927&style=flat" alt="yeabwang profile views" />
+</p>
+
 
 ### 🧩 Contributions & Activity
 ![Yeab's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yeabwang&theme=radical)  
