@@ -5,7 +5,7 @@
 </p>
 
 🎓 Undergraduate @ **Beijing Institute of Technology**  
-🔬 Researcher **@SynHeart-AI**
+🔬 Researcher ** @SynHeart-AI **
 
 **Agentic AI · Human–AI Interaction · Wearable & Physiological Sensing**
 
