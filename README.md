@@ -24,7 +24,7 @@ Current work centers on:
 
 ## 🧪 Featured Project
 
-* **[pichu](https://github.com/yeabwang/pichu)** — agentic AI code evaluation system with deterministic grading, sandboxed execution, and scalable architecture
+* **[pichu](https://github.com/yeabwang/pichu)** — Terminal-native coding agent with composable tools, sub-agents, and persistent memory.
 
 ---
 
