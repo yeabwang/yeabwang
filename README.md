@@ -4,42 +4,52 @@
   <img src="https://komarev.com/ghpvc/?username=yeabwang&label=profile%20views&color=ce9927&style=flat" alt="yeabwang profile views" />
 </p>
 
-🎓 Undergraduate @ **Beijing Institute of Technology**  
-🔬 Researcher @ [SynHeart-AI](https://github.com/synheart-ai)
-🛠 Projects [pichu](https://github.com/yeabwang/pichu)
-
-**Agentic AI · Human–AI Interaction · Wearable & Physiological Sensing**
+🎓 Undergraduate @ Beijing Institute of Technology
+🔬 AI Researcher @ SynHeart-AI
 
 ---
 
-## 🔬 Research & Interests
-I work at the intersection of **AI systems and human cognition**.
+## 🚀 Focus
 
-My focus is on:
-- **Agentic systems & coding agents** (single-agent and multi-agent orchestration)
-- **Multimodal user modeling**
-- Cognitive load, flow, and stress inference from wearables
-- **Human–AI interaction** with adaptive, state-aware AI
----
+I build **AI systems that understand humans**.
 
-## 🧰 Background
-- Former **web designer & developer**
-- Open-source contributor
----
+Current work centers on:
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+* **Agentic AI systems** — coding agents, evaluation agents, and multi-agent orchestration
+* **Multimodal user modeling** from physiological and behavioral signals
+* **Cognitive state inference** — stress, cognitive load, and flow from wearables
+* **Adaptive Human–AI interaction** — state-aware, personalized AI systems
 
 ---
 
-## 📊 Activity
-![Yeab's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yeabwang&theme=radical)
+## 🧪 Featured Project
+
+* **[pichu](https://github.com/yeabwang/pichu)** — agentic AI code evaluation system with deterministic grading, sandboxed execution, and scalable architecture
+
+---
+
+## 🧰 Tech Stack
+
+**Core:**
+Python • PyTorch • NumPy • Pandas
+
+**Systems & Apps:**
+Flask • Streamlit • CLI tools • Agent architectures
+
+**Other:**
+Automation • Web systems • Open-source infrastructure
+
+---
+
+## 📊 GitHub Activity
+
+![Yeab's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yeabwang\&theme=radical)
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/yeabwang
 
 ---
 
