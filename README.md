@@ -6,6 +6,7 @@
 
 🎓 Undergraduate @ **Beijing Institute of Technology**  
 🔬 Researcher @ [SynHeart-AI](https://github.com/synheart-ai)
+🛠 Projects [pichu](https://github.com/yeabwang/pichu)
 
 **Agentic AI · Human–AI Interaction · Wearable & Physiological Sensing**
 
