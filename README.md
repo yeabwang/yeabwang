@@ -11,8 +11,6 @@
 
 ## 🚀 Focus
 
-I build **AI systems that understand humans**.
-
 Current work centers on:
 
 * **Agentic AI systems** — coding agents, evaluation agents, and multi-agent orchestration
@@ -25,19 +23,6 @@ Current work centers on:
 ## 🧪 Featured Project
 
 * **[pichu](https://github.com/yeabwang/pichu)** — Terminal-native coding agent with composable tools, sub-agents, and persistent memory.
-
----
-
-## 🧰 Tech Stack
-
-**Core:**
-Python • PyTorch • NumPy • Pandas
-
-**Systems & Apps:**
-Flask • Streamlit • CLI tools • Agent architectures
-
-**Other:**
-Automation • Web systems • Open-source infrastructure
 
 ---
 
