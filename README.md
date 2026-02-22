@@ -34,7 +34,7 @@ Current work centers on:
 
 ## 📫 Contact
 
-* GitHub: https://github.com/yeabwang
+* Website: https://yeabwang.github.io/
 
 ---
 
