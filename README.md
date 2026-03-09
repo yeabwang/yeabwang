@@ -5,7 +5,7 @@
 </p>
 
 🎓 Undergraduate @ Beijing Institute of Technology
-🔬 AI Researcher @ SynHeart-AI
+🔬 Visiting Researcher @ SynHeart-AI
 
 ---
 
