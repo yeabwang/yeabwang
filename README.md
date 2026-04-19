@@ -1,40 +1,36 @@
-# 👋 Hi, I’m Yeab
+# Hi, I'm Yeab
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yeabwang&label=profile%20views&color=ce9927&style=flat" alt="yeabwang profile views" />
 </p>
 
-🎓 Undergraduate @ Beijing Institute of Technology
+CS student at Beijing Institute of Technology — studying the brain and deep learning together.
+
+I work on continual learning and personalization, with a belief that real intelligence adapts and grows with its context rather than being frozen at training time. Currently building a continual personalization framework for LLMs, growing toward reinforcement learning and biologically plausible adaptation.
 
 ---
 
-## 🚀 Focus
+## Current work
 
-Current work centers on:
-
-* **Agentic AI systems** — coding agents, evaluation agents, and multi-agent orchestration
-* **Multimodal user modeling** from physiological and behavioral signals
-* **Cognitive state inference** — stress, cognitive load, and flow from wearables
-* **Adaptive Human–AI interaction** — state-aware, personalized AI systems
+- **Continual personalization in LLMs** — how a model adapts to a specific user over time without forgetting general capabilities
+- **Personalized safety guardrails** — user-specific protective boundaries shaped through continual adaptation
+- **Human state modeling** — physiological and behavioral signals as input to adaptive AI systems
 
 ---
 
-## 🧪 Featured Project
+## Featured project
 
-* **[pichu](https://github.com/yeabwang/pichu)** — Terminal-native coding agent with composable tools, sub-agents, and persistent memory.
-
----
-
-## 📊 GitHub Activity
-
-![Yeab's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yeabwang\&theme=radical)
+**[pichu](https://github.com/yeabwang/pichu)** — Terminal-native coding agent with composable tools, sub-agents, and persistent memory.
 
 ---
 
-## 📫 Contact
+## GitHub activity
 
-* Website: https://yeabwang.github.io/
+![Yeab's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yeabwang&theme=radical)
 
 ---
 
-**Yeab**
+## Contact
+
+Website: https://yeabwang.github.io/
+LinkedIn: https://linkedin.com/in/yeabsira-tesfaye
