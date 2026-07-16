@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=yeabwang&label=profile%20views&color=ce9927&style=flat" alt="yeabwang profile views" />
 </p>
 
-CS student at Beijing Institute of Technology, exploring deep learning, continual adaptation, and brain-inspired AI.
-
-I work on LLM personalization, continual learning, and human-state-aware AI. I also build agents for fun.
+CS student at Beijing Institute of Technology and software engineer with 4 years of product development experience. Researching RL, continual learning, AI personalization. I also love building AI applications, LLM agents, and developer tools.
 
 ---
 
